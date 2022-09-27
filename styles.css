@@ -31,8 +31,8 @@ div#profile-background img {
     height: 28px;
     z-index: 0;
     position: absolute;
-    top:3%;
-    right:1%;
+    top:35px;
+    right:1px;
 
 }
 .form-control2 {
@@ -41,8 +41,8 @@ div#profile-background img {
     height: 28px;
     z-index: 0;
     position: absolute;
-    top:7%;
-    right:1%;
+    top:65px;
+    right:1px;
 
 }
 .login {
@@ -51,8 +51,8 @@ div#profile-background img {
     height: 30px;
     z-index: 0;
     position: absolute;
-    top:12%;
-    right:1%;
+    top:100px;
+    right:1px;
 
 }
 .AP-img {
