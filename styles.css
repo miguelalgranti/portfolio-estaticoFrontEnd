@@ -188,6 +188,9 @@ div#info-actions {
     .progress.green .progress-bar{
         border-color: #1abc9c;
     }
+.progress.red .progress-bar{
+    border-color: #f42b0c;
+}
     .progress.green .progress-left .progress-bar{
         animation: loading-5 1.2s linear forwards 1.8s;
     }
